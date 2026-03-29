@@ -2,9 +2,6 @@ import http, { Server } from "http";
 import app from "./app";
 
 
-
-
-
 let server: Server | null = null;
 const port=5000
 

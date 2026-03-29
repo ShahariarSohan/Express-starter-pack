@@ -10,7 +10,7 @@
     "start": "node dist/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shahariar Sohan",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

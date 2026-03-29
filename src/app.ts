@@ -15,7 +15,7 @@ app.set("trust proxy", 1);
 
 app.get("/", (req: Request, res: Response) => {
   res.status(200).json({
-    message: "This is a Multi-Tenant Organization Workspace API",
+    message: "This is a express starter pack docker API",
   });
 });
 
